@@ -1,0 +1,10 @@
+
+.pan{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+.text{
+    color: black;
+    font-size: 20px;
+}
