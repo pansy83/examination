@@ -8,6 +8,7 @@
 (Special.jsx Special.css)
 实现的功能：点击音乐/播客/动态切换
 3.个人信息编辑页面
+(Personal.jsx Personal.css)
 （Personal.jsx Personal.css）
 实现的功能：点击更换按钮可以更换头像
 点击昵称 弹出一个input 
@@ -16,5 +17,6 @@
 点击地区 弹出一个下拉列表
 但是不会状态更新 这个没实现
 4.歌单页面
+(Like.jsx Like.css)
 点击不同音乐 底部实现更新
 还有就是 路由还没学会 不会跳转页面
